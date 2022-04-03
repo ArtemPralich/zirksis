@@ -6,4 +6,8 @@
     <RootNamespace>zirksis_2</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Server1\Servers.csproj" />
+  </ItemGroup>
+
 </Project>
