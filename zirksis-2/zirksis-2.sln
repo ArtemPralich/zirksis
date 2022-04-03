@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zirksis-2", "zirksis-2\zirksis-2.csproj", "{4DC03E77-BA66-4F72-9969-970FF4463105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC03E77-BA66-4F72-9969-970FF4463105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC03E77-BA66-4F72-9969-970FF4463105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC03E77-BA66-4F72-9969-970FF4463105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC03E77-BA66-4F72-9969-970FF4463105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAB38F09-0268-450E-8FBA-4FA0B188B418}
+	EndGlobalSection
+EndGlobal
